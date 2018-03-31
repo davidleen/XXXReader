@@ -1,0 +1,3 @@
+//include ':app'
+
+include ':core', ':test', ':frame', ':comic'
